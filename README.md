@@ -31,11 +31,13 @@
 
 
 ## Data flow
-![](./diagrams/data-flow.png)
+![data-flow](https://user-images.githubusercontent.com/50957846/195396037-0e0527ca-904d-4d30-8276-0771e37c0806.png)
+
 
 
 ## Access & refresh token flow
-![](./diagrams/refresh-token-flow.png)
+![refresh-token-flow](https://user-images.githubusercontent.com/50957846/195396031-7f1552ee-290c-4bf4-90a5-87c0d7565cb4.png)
+
 
 
 
