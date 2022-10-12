@@ -1,4 +1,4 @@
-# Application Programming Interface using NodeJs ExpressJs TypeScript MongoDB
+# Application Programming Interface using NodeJs, ExpressJs, TypeScript, MongoDB and Zod.
 
 
 ## Requirements
